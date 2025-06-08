@@ -1,5 +1,6 @@
+<!-- VSCode-style banner with animated gradient -->
 <p align="center">
-  <img src="/mnt/data/A_header_graphic_introduces_Maximillian_Diangha_Ng.png" alt="Maximillian Diangha Ngoubi Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Maximillian%20Diangha%20Ngoubi&fontAlign=50&fontAlignY=40&color=gradient&desc=AI%20%26%20ML%20Researcher%20%7C%20Full-Stack%20Dev%20%7C%20Data%20Scientist&descAlign=50&descAlignY=60" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Maximillian Diangha Ngoubi</h1>
@@ -50,8 +51,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ngoubimaximillian12&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoubimaximillian12&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ngoubimaximillian12&show_icons=true&theme=github_dark&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoubimaximillian12&layout=compact&theme=github_dark" />
 </p>
 
 ---
@@ -59,44 +60,53 @@
 ## 🏆 GitHub Trophy Board
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ngoubimaximillian12&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ngoubimaximillian12&theme=darkhub&row=1&column=6" />
 </p>
 
 ---
 
-## 🔥 Activity Graph
+## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ngoubimaximillian12&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ngoubimaximillian12&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🚧 Featured Projects
+## 🚧 Featured Projects with GIFs
 
-| 💡 Project                     | 🔍 Description                                                               |
-|-------------------------------|------------------------------------------------------------------------------|
-| 🔬 **OmniAgent-AI**           | Self-learning offline AI assistant using DeepSeek                           |
-| 🧠 **LLM-AutoML Platform**    | No-code ML engine with real-time fairness diagnostics                        |
-| 📊 **Instacart Dashboard**    | PostgreSQL + Streamlit for grocery pattern insights                         |
-| ⚽ **EPL Match Predictor**    | Football outcomes forecasted via ensemble models                            |
-| 🏠 **House Price Estimator**  | Real estate valuation with XGBoost + Streamlit                              |
-| 🔥 **Sentiment API**          | Real-time text classification with FastAPI + ML                             |
-| 🎮 **Connect3 Game**          | Interactive 2-player logic game in Python                                   |
+| Project | Preview | Description |
+|--------|---------|-------------|
+| **OmniAgent-AI** | ![](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif) | Self-learning offline AI assistant using DeepSeek |
+| **LLM-AutoML** | ![](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) | Zero-code AutoML with fairness feedback |
+| **EPL Match Predictor** | ![](https://media.giphy.com/media/3o7TKHh2oG7jYr3nLW/giphy.gif) | Predict match outcomes using ensemble ML |
+| **House Price Estimator** | ![](https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif) | XGBoost + Streamlit app for real estate |
+| **Connect3 Game** | ![](https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif) | Python-based 2-player strategy game |
 
----
-
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="mailto:ngoubimaximillian12@gmail.com">📧 Email</a> &nbsp;|&nbsp;
-  <a href="https://www.maximillian.pro/">🌐 Portfolio</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/diangha-ngoubi-42a49b281/">💼 LinkedIn</a>
-</p>
+> Replace GIF links above with your own previews when ready.
 
 ---
 
-> ✨ _“I use machine learning to turn complex data into actionable intelligence.”_
+## ⚙️ Auto-Build GitHub README (via Actions)
 
----
+Create `.github/workflows/README.yml`:
 
+```yaml
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community, repositories
