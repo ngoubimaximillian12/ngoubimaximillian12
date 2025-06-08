@@ -1,72 +1,91 @@
 <h1 align="center">Hi there 👋, I'm Maximillian Diangha Ngoubi</h1>
 
 <p align="center">
-  <em>Machine Learning Engineer | AI Researcher | Data Scientist</em>
+  <em>🧠 AI & ML Researcher | 💻 Full-Stack Developer | 📊 Data Scientist</em>
 </p>
 
 <p align="center">
-  <a href="mailto:ngoubimaximillian12@gmail.com"><img src="https://img.shields.io/badge/email-Drop%20a%20message-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://github.com/ngoubimaximillian12"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:ngoubimaximillian12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Drop%20a%20message-blue?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/diangha-ngoubi-42a49b281/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://www.maximillian.pro/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat-square&logo=google-chrome" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ngoubimaximillian12&style=flat-square&color=blue" alt="Visitor Count" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🧠 Passionate about **AI, machine learning**, and building intelligent systems.
-- 🔍 Currently researching **AI-based optimisation** for energy & environmental sustainability.
-- 🎓 Background in **data science, full-stack development, and scientific computing**.
-- 🤝 Open to collaboration on impactful AI projects across domains like health, climate, finance, and sports.
+- 🤖 Building intelligent agents & AI tools for real-world impact  
+- 🌱 Learning LLM integration, scalable ML systems, and AutoML platforms  
+- 🧠 Interested in AI for climate, health, sport, and smart automation  
+- 📍 Based in Edinburgh, working globally  
 
 ---
 
-## 🔧 Skills & Tools
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
-
----
-
-## 🌱 Currently Exploring
-
-- 🔄 LLM-driven AutoML platforms
-- ⚡ Efficient carbon capture with AI (DAC & BECCS)
-- 🔐 Secure, privacy-preserving ML (e.g., federated learning)
-- 🧪 Applied AI in healthcare, finance, and sports
+![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
+![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
 
 ---
 
-## 📂 Featured Projects
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ngoubimaximillian12&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoubimaximillian12&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophy Board
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ngoubimaximillian12&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+## 📊 Contribution Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ngoubimaximillian12&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 | Project | Description |
 |--------|-------------|
-| 🔬 **OmniAgent-AI** | Self-learning modular AI using DeepSeek agents |
-| 🧠 **LLM-AutoML-Platform** | No-code AI builder with fairness analytics and LLM feedback |
-| 🏃‍♂️ **Human Activity Recognition** | Activity prediction using smart sensor data |
-| 📊 **Instacart Basket Analysis** | Visualising e-commerce trends with Streamlit and PostgreSQL |
-| ⚽ **EPL Match Predictor** | Predicts Premier League results using machine learning |
-| 🍷 **Wine Quality Predictor** | Forecasts wine ratings from chemical profiles |
-| 🏠 **House Price Prediction App** | Realtime home value estimation using Streamlit & XGBoost |
-| 🔥 **Sentiment Analysis API** | FastAPI-based app to analyze emotions in text |
-| 🎮 **Connect3 Game** | Fun grid-based game built with simple logic and clean UI |
+| 🔬 **OmniAgent-AI** | Self-learning offline AI system using DeepSeek |
+| 🧠 **LLM-AutoML Platform** | Zero-code AutoML with real-time fairness feedback |
+| 📊 **Instacart Basket Dashboard** | Streamlit + PostgreSQL for grocery trends |
+| ⚽ **EPL Match Predictor** | Match outcomes using ensemble ML models |
+| 🏠 **House Price App** | XGBoost + Streamlit for real estate insights |
+| 🔥 **Sentiment API** | Text classification with FastAPI and ML |
+| 🎮 **Connect3 Game** | Simple two-player grid-based logic game |
 
 ---
 
-## 📫 Get in Touch
+## 📬 Contact Me
 
-- 📧 **Email:** ngoubimaximillian12@gmail.com  
-- 🔗 **GitHub:** [@ngoubimaximillian12](https://github.com/ngoubimaximillian12)  
-- 💼 **LinkedIn:https://www.linkedin.com/in/diangha-ngoubi-42a49b281/
+- 📧 Email: ngoubimaximillian12@gmail.com  
+- 🌐 Website: [maximillian.pro](https://www.maximillian.pro)  
+- 💼 LinkedIn: [Diangha Ngoubi](https://www.linkedin.com/in/diangha-ngoubi-42a49b281/)
 
 ---
 
-> ⭐ *“I build intelligent, ethical AI systems that solve meaningful problems.”*
-
+> ✨ *"I use machine learning to turn complex data into actionable intelligence."*
