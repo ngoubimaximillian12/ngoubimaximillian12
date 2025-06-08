@@ -64,7 +64,7 @@
 
 - 📧 **Email:** ngoubimaximillian12@gmail.com  
 - 🔗 **GitHub:** [@ngoubimaximillian12](https://github.com/ngoubimaximillian12)  
-- 💼 **LinkedIn:** *(Add your LinkedIn URL here)*
+- 💼 **LinkedIn:https://www.linkedin.com/in/diangha-ngoubi-42a49b281/
 
 ---
 
