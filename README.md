@@ -154,4 +154,26 @@ I’m always excited to collaborate on AI, ML, and full-stack projects.
 
 ---
 
-*Last updated: <!-- ALL-CONTRIBUTIONS:START -->2025-06-20<!-- ALL-CONTRIBUTIONS:END -->*
+# .github/workflows/update-readme.yml
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Commit README update
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update README via GitHub Actions" || echo "No changes to commit"
+          git push
