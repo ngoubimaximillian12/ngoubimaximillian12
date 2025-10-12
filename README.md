@@ -207,23 +207,68 @@
 
 ---
 
-## 🎓 Certifications
+---
 
-| Certification | Institution | Credential |
-|---------------|--------------|-------------|
-| [Exploratory Data Analysis for Machine Learning](https://coursera.org/share/f96a683133c0307792215e3b799c4221) | IBM | Coursera |
-| [Supervised Machine Learning: Classification](https://coursera.org/share/e2f6a71630994dde889dda2de3c34169) | IBM | Coursera |
-| [Unsupervised Machine Learning](https://coursera.org/share/ad40cedfb52874dff61eef6f490c2bb3) | IBM | Coursera |
-| [Practical Machine Learning](https://coursera.org/share/b3f4c5f4324ce0e47708f70d09c55ff9) | Johns Hopkins University | Coursera |
-| [Exploratory Data Analysis with R](https://www.coursera.org/account/accomplishments/certificate/XC5JTUIJ19SE) | Johns Hopkins University | Coursera |
-| [Supervised Machine Learning: Regression](https://coursera.org/share/78e37d2ad7fbcf47b2c2a292fb2189c6) | IBM | Coursera |
-| [Regression Models](https://coursera.org/share/59abd83a5633a6003efcd676d95b3bdc) | Johns Hopkins University | Coursera |
-| [R Programming](https://www.coursera.org/account/accomplishments/certificate/RX66Z9XCQREF) | Johns Hopkins University | Coursera |
-| [Introduction to Software Engineering](https://www.coursera.org/account/accomplishments/verify/WAQ8CCQE6LHS) | IBM | Coursera |
-| [Data Science Methodology](https://www.coursera.org/account/accomplishments/verify/MFJW5Z4SQD99) | IBM | Coursera |
-| [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/QK2HFSPHECG6) | IBM | Coursera |
-| [Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/HV9NJUYV2YUU) | IBM | Coursera |
-| [What is Data Science?](https://www.coursera.org/account/accomplishments/verify/WJHGWPNC5CC8) | IBM | Coursera |
+## 🎓 Education
+
+### 🧠 MSc in Computer Science  
+**Edinburgh Napier University, UK** | *Jan 2025*  
+
+### 💻 Pre-MSc in Computer Science  
+**Edinburgh International College (EIC), UK** | *Jan 2024 – Dec 2024*  
+
+### 🎯 BSc in Computer Science  
+**University of Buea, Cameroon** | *Oct 2012 – Dec 2015*  
+
+### 🏫 GCE Advanced Level Certificate  
+**Saint Bede’s College, Ashing, Cameroon** | *Jun 2012*  
+
+### 📘 GCE Ordinary Level Certificate  
+**Saint Joseph’s Catholic Comprehensive College, Mbegwi, Cameroon** | *Jun 2010*  
+
+---
+
+## 🏅 Certifications
+
+### 🎓 IBM Professional Certificates
+- **Exploratory Data Analysis for Machine Learning** | *May 2025*   
+  [🔗 Credential](https://coursera.org/share/f96a683133c0307792215e3b799c4221)
+- **Supervised Machine Learning: Classification** | *May 2025*   
+  [🔗 Credential](https://coursera.org/share/e2f6a71630994dde889dda2de3c34169)
+- **Unsupervised Machine Learning** | *May 2025*   
+  [🔗 Credential](https://coursera.org/share/ad40cedfb52874dff61eef6f490c2bb3)
+- **Supervised Machine Learning: Regression (IBM Digital Talent)** | *Mar 2025*   
+  [🔗 Credential](https://coursera.org/share/78e37d2ad7fbcf47b2c2a292fb2189c6)
+- **Introduction to Software Engineering** | *Sep 2024*   
+  [🔗 Credential](https://www.coursera.org/account/accomplishments/verify/WAQ8CCQE6LHS)
+- **Data Science Methodology** | *Jun 2024*   
+  [🔗 Credential](https://www.coursera.org/account/accomplishments/verify/MFJW5Z4SQD99)
+- **Python for Data Science, AI & Development** | *Jun 2024*   
+  [🔗 Credential](https://www.coursera.org/account/accomplishments/certificate/QK2HFSPHECG6)
+- **Tools for Data Science** | *Mar 2024*   
+  [🔗 Credential](https://www.coursera.org/account/accomplishments/verify/HV9NJUYV2YUU)
+- **What is Data Science (IBM)** | *Mar 2024 – Expires Mar 2034*   
+  [🔗 Credential](https://www.coursera.org/account/accomplishments/verify/WJHGWPNC5CC8)
+
+### 🎓 The Johns Hopkins University Certificates
+- **Practical Machine Learning** | *Apr 2025*   
+  [🔗 Credential](https://coursera.org/share/b3f4c5f4324ce0e47708f70d09c55ff9)
+- **Exploratory Data Analysis with R** | *Apr 2025*   
+  [🔗 Credential](https://www.coursera.org/account/accomplishments/certificate/XC5JTUIJ19SE)
+- **R Programming** | *Feb 2025*   
+  [🔗 Credential](https://www.coursera.org/account/accomplishments/certificate/RX66Z9XCQREF)
+- **Regression Models** | *Feb 2025*   
+  [🔗 Credential](https://coursera.org/share/59abd83a5633a6003efcd676d95b3bdc)
+
+---
+
+### 🧩 Key Competencies Gained
+- Artificial Intelligence & Machine Learning (AI/ML)  
+- Data Science & Exploratory Data Analysis (EDA)  
+- Regression, Classification & Unsupervised Learning  
+- R Programming & Python Development  
+- Cloud & Software Engineering Foundations  
+- Business Analytics & Statistical Modelling  
 
 ---
 
