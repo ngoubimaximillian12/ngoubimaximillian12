@@ -5,7 +5,7 @@
 <h1 align="center">Hi there 👋, I'm Maximillian Diangha Ngoubi</h1>
 
 <p align="center">
-<em>🧠 AI & ML Researcher | 💻 Full-Stack Developer | 📊 Data Scientist</em>
+<em>🧠 AI & ML Researcher | 💻 Full-Stack Developer | ☁️ Cloud Computing (AWS & Azure) | 📊 Data Scientist</em>
 </p>
 
 <p align="center">
