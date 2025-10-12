@@ -63,35 +63,66 @@
 
 ## 📁 Pinned Repositories Showcase
 
-<p align="center">
-
-<a href="https://github.com/ngoubimaximillian12/Camride-super-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoubimaximillian12&repo=Camride-super-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/ngoubimaximillian12/Create-an-AI-capable-of-novel-reasoning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoubimaximillian12&repo=Create-an-AI-capable-of-novel-reasoning&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/ngoubimaximillian12/sales-forecasting-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoubimaximillian12&repo=sales-forecasting-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/ngoubimaximillian12/Music-Recommendation-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoubimaximillian12&repo=Music-Recommendation-Dashboard&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/ngoubimaximillian12/-House-Price-Prediction-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoubimaximillian12&repo=-House-Price-Prediction-App&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/ngoubimaximillian12/sentiment-analysis-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoubimaximillian12&repo=sentiment-analysis-app&theme=tokyonight" />
-</a>
-
-</p>
+> A comprehensive portfolio of AI, SaaS, IoT, Blockchain, and Full-Stack systems — showcasing expertise across modern technologies.
 
 ---
+
+### 🤖 Artificial Intelligence & Machine Learning
+- **[LLM-Automl-Platform](https://github.com/ngoubimaximillian12/LLM-Automl-Platform)** — Full-stack no-code AutoML platform with LLM-driven bias auditing, fairness metrics, and feedback learning.
+- **[OmniAgent-AI](https://github.com/ngoubimaximillian12/OmniAgent-AI)** — Modular, self-learning offline-capable AI assistant for automation and task orchestration across multiple domains.
+- **[AI-Support-Copilot-with-RAG-Tool-Use-and-Quality-Eval-Loops](https://github.com/ngoubimaximillian12/AI-Support-Copilot-with-RAG-Tool-Use-and-Quality-Eval-Loops)** — RAG-based assistant that drafts support responses, triggers workflows, and learns from feedback automatically.
+- **[Adaptive-Personalisation-in-E-Commerce-Recommendations](https://github.com/ngoubimaximillian12/Adaptive-Personalisation-in-E-Commerce-Recommendations)** — Deep learning and collaborative filtering hybrid recommender system for e-commerce personalization.
+- **[ddata-cleaning-dashboard](https://github.com/ngoubimaximillian12/ddata-cleaning-dashboard)** — Intelligent Streamlit app for automated and ML-based data cleaning, analysis, and deep learning anomaly detection.
+- **[tenant_legal_assistant.py](https://github.com/ngoubimaximillian12/tenant_legal_assistant.py)** — AI-powered legal assistant for tenants: generates letters, explains rights, tracks issues, and connects with local legal aid.
+- **[Red-Teaming-Challenge---OpenAI-gpt-oss-20b](https://github.com/ngoubimaximillian12/Red-Teaming-Challenge---OpenAI-gpt-oss-20b)** — Research participation project exploring vulnerabilities and model behavior in open-weight LLMs.
+- **[NeurIPS-2025---Google-Code-Golf-Championship](https://github.com/ngoubimaximillian12/NeurIPS-2025---Google-Code-Golf-Championship)** — Compact code solutions for ARC-AGI tasks focusing on creativity and reasoning efficiency.
+
+---
+
+### 🌐 SaaS, Cloud & Platforms
+- **[SaaS-accessibility-care-cente](https://github.com/ngoubimaximillian12/SaaS-accessibility-care-cente)** — AI-driven accessibility compliance SaaS platform with assistive tools, live audits, and inclusion tracking.
+- **[Usage-Metered-Multi-Tenant-SaaS-Platform-Stripe-Native-PLG-](https://github.com/ngoubimaximillian12/Usage-Metered-Multi-Tenant-SaaS-Platform-Stripe-Native-PLG-)** — Ready-to-deploy SaaS starter with org management, usage metering, billing, and feature flags.
+- **[Usage-Metered-Multi-Tenant-SaaS-Industrial-as-a-Service-](https://github.com/ngoubimaximillian12/Usage-Metered-Multi-Tenant-SaaS-Industrial-as-a-Service-)** — Industrial-grade multi-tenant SaaS model for metered usage and API-based integrations.
+- **[secure-mission-control-platform](https://github.com/ngoubimaximillian12/secure-mission-control-platform)** — Cloud-native DevSecOps mission control with RBAC, observability, and CI/CD automation.
+- **[Collaborative-Offline-First-Editor-With-Embedded-Field-Devices-](https://github.com/ngoubimaximillian12/Collaborative-Offline-First-Editor-With-Embedded-Field-Devices-)** — Offline-first editor for industrial field device collaboration.
+- **[Collaborative-Doc-Editor-with-CRDTs-Offline-First-and-E2E-Encryption](https://github.com/ngoubimaximillian12/Collaborative-Doc-Editor-with-CRDTs-Offline-First-and-E2E-Encryption)** — Real-time CRDT-based collaborative editor with end-to-end encryption and local-first sync.
+
+---
+
+### 🚗 IoT, Edge AI & Fleet Management
+- **[Edge-IoT-Telemetry-AI-Diagnostics-Digital-Twin-for-Fleets](https://github.com/ngoubimaximillian12/Edge-IoT-Telemetry-AI-Diagnostics-Digital-Twin-for-Fleets)** — AI-powered digital twin system for real-time vehicle telemetry and diagnostics.
+- **[Edge-IoT-Telemetry-AI-Powered-Diagnostics-System-for-Real-Time-Fleet-Management](https://github.com/ngoubimaximillian12/Edge-IoT-Telemetry-AI-Powered-Diagnostics-System-for-Real-Time-Fleet-Management)** — IoT fleet dashboard with predictive maintenance and live sensor analytics.
+- **[Modern-Data-Lakehouse-Metrics-Layer-for-Embedded-Fleets](https://github.com/ngoubimaximillian12/Modern-Data-Lakehouse-Metrics-Layer-for-Embedded-Fleets)** — Data lakehouse for IoT fleet analytics using Iceberg/Trino and MetricFlow.
+- **[Geospatial-Last-Mile-Optimizer-with-Embedded-Telemetry](https://github.com/ngoubimaximillian12/Geospatial-Last-Mile-Optimizer-with-Embedded-Telemetry)** — Optimized logistics with AI-based routing, driver telemetry, and dispatch analytics.
+- **[Geospatial-Last-Mile-Optimizer-with-Live-Dispatch-Pricing](https://github.com/ngoubimaximillian12/Geospatial-Last-Mile-Optimizer-with-Live-Dispatch-Pricing)** — Real-time routing and pricing engine for logistics fleets with WebSocket updates.
+- **[Modern-Data-Lakehouse-Metrics-Layer-From-Raw-to-Decisions-](https://github.com/ngoubimaximillian12/Modern-Data-Lakehouse-Metrics-Layer-From-Raw-to-Decisions-)** — End-to-end data stack: ingestion → transformation → metrics → decision insights.
+
+---
+
+### 💳 FinTech, Blockchain & Business Systems
+- **[Institutional-blockchain-portfolio-tracker](https://github.com/ngoubimaximillian12/Institutional-blockchain-portfolio-tracker)** — Multi-chain portfolio tracker with automated tax reporting and wallet synchronization.
+- **[Expense-tracker-ai](https://github.com/ngoubimaximillian12/Expense-tracker-ai)** — AI-based expense tracker with OCR receipt scanning, budget analysis, and SQLite database.
+- **[Air-expense-tracker-api](https://github.com/ngoubimaximillian12/Air-expense-tracker-api)** — Backend API for personal finance tracking with secure endpoints and budgeting tools.
+
+---
+
+### 🚕 Mobility, E-Commerce & Social Platforms
+- **[Camride-super-app](https://github.com/ngoubimaximillian12/Camride-super-app)** — Ride-hailing and food delivery platform with live tracking, bilingual UI, and Mobile Money integration.
+- **[ShopTok](https://github.com/ngoubimaximillian12/ShopTok)** — TikTok-style social commerce app combining live shopping, recommendations, and gamified engagement.
+
+---
+
+### 🧰 Developer Infrastructure & Utilities
+- **[auto](https://github.com/ngoubimaximillian12/auto)** — Multi-tenant mission planning and coordination system with CI/CD and Docker automation.
+- **[ngoubimaximillian12](https://github.com/ngoubimaximillian12/ngoubimaximillian12)** — Profile configuration and automation scripts repository.
+- **[-C-](https://github.com/ngoubimaximillian12/-C-)** — Research and code experiments for computational models and reasoning tasks.
+
+---
+
+> 🧭 Explore the full list of repositories on  
+> **[github.com/ngoubimaximillian12?tab=repositories](https://github.com/ngoubimaximillian12?tab=repositories)**  
+> to see 40+ additional AI, SaaS, and automation projects.
+
 
 ## 🧩 Featured Projects (Visual Showcase)
 
