@@ -32,7 +32,7 @@
 - 🌐 Contributor to multiple open-source projects spanning AI, backend APIs, recommender systems, and web collaboration tools  
 - 🧠 Passionate about AI for climate, health, sport & automation  
 - 🌱 Exploring LLM integration, AutoML & scalable MLOps  
-- 🌍 Based in **Edinburgh**, serving clients worldwide  
+- 🌍 Based in **Basingstoke, Hampshire**, serving clients worldwide  
 
 ---
 
