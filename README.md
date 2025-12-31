@@ -271,4 +271,31 @@ Artificial Intelligence & Machine Learning (AI/ML) • Data Science & Explorator
 <br/>
 <br/>
 
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-EA4335
+## 📊 GitHub Stats
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ngoubimaximillian12&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ngoubimaximillian12&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoubimaximillian12&layout=compact&theme=tokyonight" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngoubimaximillian12&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact & Collaboration
+
+📧 **Email:** [ngoubimaximillian12@gmail.com](mailto:ngoubimaximillian12@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/diangha-ngoubi-42a49b281](https://www.linkedin.com/in/diangha-ngoubi-42a49b281/)  
+🌐 **Portfolio:** [www.maximillian.pro](https://www.maximillian.pro)  
+🐙 **GitHub:** [github.com/ngoubimaximillian12](https://github.com/ngoubimaximillian12)  
+
+💬 *Open to collaborations in AI, Data Science, Full-Stack Development, Accessibility Tech, and SaaS innovation.*  
+
+---
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
