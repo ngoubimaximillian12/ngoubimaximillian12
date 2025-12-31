@@ -288,7 +288,7 @@ Artificial Intelligence & Machine Learning (AI/ML) • Data Science & Explorator
 ## 📫 Contact & Collaboration
 
 📧 **Email:** [ngoubimaximillian12@gmail.com](mailto:ngoubimaximillian12@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/diangha-ngoubi-42a49b281](https://www.linkedin.com/in/diangha-ngoubi-42a49b281/)  
+💼 **LinkedIn:** [linkedin.com/in/diangha-ngoubi-42a49b281](https://www.linkedin.com/in/maximillian-diangha-ngoubi-42a49b281/)  
 🌐 **Portfolio:** [www.maximillian.pro](https://www.maximillian.pro)  
 🐙 **GitHub:** [github.com/ngoubimaximillian12](https://github.com/ngoubimaximillian12)  
 
