@@ -299,3 +299,48 @@ Artificial Intelligence & Machine Learning (AI/ML) • Data Science & Explorator
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+🎓 Education
+🧠 MSc in Computer Science
+Edinburgh Napier University, UK | Jan 2025
+
+💻 Pre-MSc in Computer Science
+Edinburgh International College (EIC), UK | Jan 2024 – Dec 2024
+
+🎯 BSc in Computer Science
+University of Buea, Cameroon | Oct 2012 – Dec 2015
+
+🏫 GCE Advanced Level Certificate
+Saint Bede’s College, Ashing, Cameroon | Jun 2012
+
+📘 GCE Ordinary Level Certificate
+Saint Joseph’s Catholic Comprehensive College, Mbegwi, Cameroon | Jun 2010
+
+🏅 Certifications
+🎓 IBM Professional Certificates
+Exploratory Data Analysis for Machine Learning | May 2025 
+🔗 Credential
+Supervised Machine Learning: Classification | May 2025 
+🔗 Credential
+Unsupervised Machine Learning | May 2025 
+🔗 Credential
+Supervised Machine Learning: Regression (IBM Digital Talent) | Mar 2025 
+🔗 Credential
+Introduction to Software Engineering | Sep 2024 
+🔗 Credential
+Data Science Methodology | Jun 2024 
+🔗 Credential
+Python for Data Science, AI & Development | Jun 2024 
+🔗 Credential
+Tools for Data Science | Mar 2024 
+🔗 Credential
+What is Data Science (IBM) | Mar 2024 – Expires Mar 2034 
+🔗 Credential
+🎓 The Johns Hopkins University Certificates
+Practical Machine Learning | Apr 2025 
+🔗 Credential
+Exploratory Data Analysis with R | Apr 2025 
+🔗 Credential
+R Programming | Feb 2025 
+🔗 Credential
+Regression Models | Feb 2025 
+🔗 Credential
